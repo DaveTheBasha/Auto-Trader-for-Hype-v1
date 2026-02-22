@@ -1,0 +1,88 @@
+2026-02-17 08:11:50.164 | INFO     | web_dashboard:run_dashboard:679 - Starting dashboard at http://127.0.0.1:5000
+2026-02-17 08:12:09.082 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:12:12.112 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:12:18.412 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:12:21.524 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:12:39.243 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:12:42.423 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:13:09.263 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:13:12.206 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:13:39.223 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:13:42.378 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:13:55.125 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:13:58.194 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:14:08.882 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:14:12.564 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:14:39.222 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:14:42.360 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:15:09.235 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:15:12.212 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:15:39.225 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:15:42.348 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:16:30.225 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:16:33.374 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:17:30.226 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:17:33.455 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:17:59.565 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:18:02.689 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:18:09.243 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:18:12.141 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:18:39.232 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:18:42.401 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:19:09.238 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:19:12.197 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:19:33.302 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:19:36.410 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:19:38.882 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:19:41.862 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:20:08.873 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:20:11.793 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:20:40.390 | INFO     | bot:initialize:36 - Initializing trading bot...
+2026-02-17 08:20:40.424 | INFO     | bot:initialize:40 - Database initialized
+2026-02-17 08:20:40.428 | WARNING  | twitter_monitor:initialize:30 - TWITTER_BEARER_TOKEN not set - Twitter monitoring disabled
+2026-02-17 08:20:40.428 | INFO     | twitter_monitor:initialize:31 - Using Telegram and/or Wallet Copy Trading instead
+2026-02-17 08:20:40.435 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:20:43.660 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:20:43.717 | INFO     | trader_tracker:initialize_trader:42 - Initialized trader profile: @SmartContracter
+2026-02-17 08:20:43.737 | INFO     | trader_tracker:initialize_trader:42 - Initialized trader profile: @Pentoshi
+2026-02-17 08:20:43.755 | INFO     | trader_tracker:initialize_trader:42 - Initialized trader profile: @DonAlt
+2026-02-17 08:20:43.771 | INFO     | trader_tracker:initialize_trader:42 - Initialized trader profile: @CryptoKaleo
+2026-02-17 08:20:43.786 | INFO     | trader_tracker:initialize_trader:42 - Initialized trader profile: @HsakaTrades
+2026-02-17 08:20:43.802 | INFO     | trader_tracker:initialize_trader:42 - Initialized trader profile: @EmperorBTC
+2026-02-17 08:20:43.803 | INFO     | bot:initialize:59 - All components initialized successfully
+2026-02-17 08:20:43.805 | INFO     | bot:start:162 - Starting trading bot...
+2026-02-17 08:20:43.805 | INFO     | bot:start:173 - Trading bot is now running
+2026-02-17 08:20:43.806 | INFO     | bot:monitor_positions:123 - Starting position monitor...
+2026-02-17 08:20:43.809 | INFO     | twitter_monitor:poll_loop:150 - Starting Twitter polling loop...
+2026-02-17 08:25:01.390 | INFO     | bot:start:179 - Bot tasks cancelled
+2026-02-17 08:25:01.391 | INFO     | bot:stop:183 - Stopping trading bot...
+2026-02-17 08:25:01.396 | INFO     | twitter_monitor:stop:178 - Twitter monitor stopped
+2026-02-17 08:25:01.398 | INFO     | bot:stop:194 - Trading bot stopped
+2026-02-17 08:25:13.711 | INFO     | web_dashboard:run_dashboard:679 - Starting dashboard at http://127.0.0.1:5000
+2026-02-17 08:25:21.940 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:25:24.876 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:25:25.696 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:25:27.982 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:25:28.756 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:25:31.053 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:25:52.220 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:25:55.308 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:26:22.239 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:26:25.426 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:26:52.221 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:26:55.385 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:27:22.549 | INFO     | bot:initialize:36 - Initializing trading bot...
+2026-02-17 08:27:22.581 | INFO     | bot:initialize:40 - Database initialized
+2026-02-17 08:27:22.584 | WARNING  | twitter_monitor:initialize:30 - TWITTER_BEARER_TOKEN not set - Twitter monitoring disabled
+2026-02-17 08:27:22.584 | INFO     | twitter_monitor:initialize:31 - Using Telegram and/or Wallet Copy Trading instead
+2026-02-17 08:27:22.591 | INFO     | hyperliquid_trader:initialize:51 - Wallet address: 0x77d5e8206Cc9Bd7d980dA0C46B53DEcE2f5F095F
+2026-02-17 08:27:25.775 | INFO     | hyperliquid_trader:initialize:68 - Hyperliquid trader initialized on TESTNET
+2026-02-17 08:27:25.797 | INFO     | bot:initialize:59 - All components initialized successfully
+2026-02-17 08:27:25.799 | INFO     | bot:start:162 - Starting trading bot...
+2026-02-17 08:27:25.800 | INFO     | bot:start:173 - Trading bot is now running
+2026-02-17 08:27:25.800 | INFO     | bot:monitor_positions:123 - Starting position monitor...
+2026-02-17 08:27:25.805 | INFO     | twitter_monitor:poll_loop:150 - Starting Twitter polling loop...
+2026-02-17 08:36:21.773 | INFO     | bot:start:179 - Bot tasks cancelled
+2026-02-17 08:36:21.774 | INFO     | bot:stop:183 - Stopping trading bot...
+2026-02-17 08:36:21.776 | INFO     | twitter_monitor:stop:178 - Twitter monitor stopped
+2026-02-17 08:36:21.777 | INFO     | bot:stop:194 - Trading bot stopped

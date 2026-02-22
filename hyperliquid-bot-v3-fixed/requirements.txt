@@ -1,0 +1,37 @@
+# Hyperliquid Trading Bot Dependencies
+
+# Core
+hyperliquid-python-sdk>=0.5.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Twitter/X API
+tweepy>=4.14.0
+
+# Telegram (optional - for Telegram signal monitoring)
+telethon>=1.34.0
+
+# Async & HTTP
+aiohttp>=3.9.0
+asyncio>=3.4.3
+
+# Database
+sqlalchemy>=2.0.0
+aiosqlite>=0.19.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# CLI & Logging
+loguru>=0.7.0
+rich>=13.0.0
+
+# Ethereum (for wallet copy trading)
+eth_account>=0.11.0
+
+# Scheduling
+schedule>=1.2.0
+
+# Web Dashboard
+flask>=3.0.0
